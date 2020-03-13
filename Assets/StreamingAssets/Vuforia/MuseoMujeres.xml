@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Titi_Escalante_Evolucion" size="1.000000 0.750000" />
+    <ImageTarget name="Roxana_Carbonell_Bodegon_y_Paisaje" size="1.000000 0.750000" />
+    <ImageTarget name="Rosa_Maria_Alvarez_Repesa_del_Cafe" size="1.000000 0.529640" />
+    <ImageTarget name="Negra_Alvarez_Hombre_del_Tercer_Milenio" size="1.000000 1.333333" />
+    <ImageTarget name="Maria_Elena_Palomo_Fragilidad" size="1.000000 0.742204" />
+    <ImageTarget name="Margarita_Orellana_Desorden_Urbano" size="1.000000 0.750000" />
+    <ImageTarget name="Lucia_Canas_Paisaje" size="1.000000 1.333333" />
+    <ImageTarget name="Lolly_Sandoval_Mercado" size="1.000000 0.370927" />
+    <ImageTarget name="Eva_Margarita_Llort_Lo_Nuestro" size="1.000000 0.941779" />
+  </Tracking>
+</QCARConfig>

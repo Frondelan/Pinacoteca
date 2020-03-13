@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Victor_Barriere_Copan" size="1.000000 1.519707" />
+    <ImageTarget name="Salvador_de_la_Mancha_La_marcha_30J" size="1.000000 1.023284" />
+    <ImageTarget name="Roberto_Huezo_Casa_a" size="1.000000 0.750000" />
+    <ImageTarget name="Raul_Elas_Reyes_Arboles_Secos" size="1.000000 0.533358" />
+    <ImageTarget name="Gilberto_Osorio_Estado_Mayor_de_Sandino" size="1.000000 0.756947" />
+    <ImageTarget name="Federico_Morales_Vendedora_de_Flores" size="1.000000 0.750000" />
+    <ImageTarget name="Efrain_Vasquez_Santiago_Nonualco" size="1.000000 1.333333" />
+  </Tracking>
+</QCARConfig>
